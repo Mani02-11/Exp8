@@ -167,7 +167,8 @@ The application launches and displays the student information and home screen su
 
 ### Screenshot – Application Output
 
-Insert your home-screen screenshot here. Ensure that **Manikandan P** and **25MCAR0186** are visible.
+<img width="400" height="660" alt="1000175341" src="https://github.com/user-attachments/assets/fb36b2df-1695-4ab0-91b4-80dd209e98b6" />
+
 
 ---
 
@@ -196,7 +197,9 @@ The Options Menu and Popup Menu display their available actions successfully.
 
 ### Screenshot
 
-Insert a screenshot showing the Options Menu or Popup Menu here.
+<img width="400" height="660" alt="1000175346" src="https://github.com/user-attachments/assets/66d917d0-23c1-497f-8337-eadaa6c20b73" />
+<img width="400" height="660" alt="1000175343" src="https://github.com/user-attachments/assets/63c71137-1b5a-4331-a2e3-5e92b05ed52e" />
+
 
 ---
 
@@ -225,6 +228,9 @@ The Context Menu appears on long press, and the website loads inside WebView whe
 
 ### Screenshot
 
-Insert a screenshot showing the Context Menu or the website loaded inside WebView here.
+<img width="400" height="660" alt="1000175344" src="https://github.com/user-attachments/assets/2b359145-3bdd-4f8e-8af5-5f769abd5783" />
+
+<img width="400" height="660" alt="1000175347" src="https://github.com/user-attachments/assets/72b6c2ff-4a08-43e7-be2b-678d55dba093" />
+
 
 ---
