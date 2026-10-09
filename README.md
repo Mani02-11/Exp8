@@ -144,51 +144,52 @@ The application contains a modern interface with the following elements:
 
 # 🧪 Test Cases
 
-## Test Case 1 – Application Launch
+## Test Case 1 – Application Launch and Student Details
 
 ### Objective
 
-To verify that the application launches successfully and displays the student information page.
+To verify that the application launches successfully and displays the student's name and USN.
 
 ### Input
 
-Launch the application.
+Launch the Experiment 8 application.
 
 ### Expected Result
 
-The application should display the home screen with the toolbar, student information card, menu buttons, and WebView content.
+The home screen should display the student information, toolbar, menu controls, and WebView content.
 
 ### Actual Result
 
-The home screen is displayed successfully with the student information and WebView content.
+The application launches and displays the student information and home screen successfully.
 
 ### Status
 
 ✅ **Passed**
 
-### Screenshot
+### Screenshot – Application Output
 
-Add the screenshot of the application home screen here.
+Insert your home-screen screenshot here. Ensure that **Manikandan P** and **25MCAR0186** are visible.
 
 ---
 
-## 🧪 Test Case 2 – Options Menu
+## 🧪 Test Case 2 – Options Menu and Popup Menu
 
 ### Objective
 
-To verify that the Options Menu displays the available application actions.
+To verify that the Options Menu and Popup Menu display their available actions.
 
 ### Input
 
-Tap the Options Menu icon on the toolbar.
+1. Tap the Options Menu icon in the toolbar.
+2. Close the menu and tap the Popup Menu button.
 
 ### Expected Result
 
-The menu should display the available options, such as Home, Open Website, and About.
+The Options Menu should display options such as Home, Open Website, and About. The Popup Menu should display its configured actions.
 
 ### Actual Result
 
-The Options Menu is displayed, and the user can select the available actions.
+The Options Menu and Popup Menu display their available actions successfully.
 
 ### Status
 
@@ -196,27 +197,28 @@ The Options Menu is displayed, and the user can select the available actions.
 
 ### Screenshot
 
-Add the screenshot showing the Options Menu here.
+Insert a screenshot showing the Options Menu or Popup Menu here.
 
 ---
 
-## 🧪 Test Case 3 – Context Menu
+## 🧪 Test Case 3 – Context Menu and WebView
 
 ### Objective
 
-To verify that the Context Menu appears when the student information card is long-pressed.
+To verify that the Context Menu appears on a long press and that WebView can display website content.
 
 ### Input
 
-Long-press the student information card.
+1. Long-press the student information card to display the Context Menu.
+2. Select the Open Website option from the Options Menu.
 
 ### Expected Result
 
-The Context Menu should appear and display the actions configured for the selected view.
+The Context Menu should display its configured actions. The selected website should load inside WebView when an internet connection is available.
 
 ### Actual Result
 
-The Context Menu appears after the student information card is long-pressed.
+The Context Menu appears on long press, and the website loads inside WebView when internet access is available.
 
 ### Status
 
@@ -224,62 +226,6 @@ The Context Menu appears after the student information card is long-pressed.
 
 ### Screenshot
 
-Add the screenshot showing the Context Menu here.
-
----
-
-## 🧪 Test Case 4 – Popup Menu
-
-### Objective
-
-To verify that the Popup Menu appears when the Popup Menu button is clicked.
-
-### Input
-
-Tap the Popup Menu button.
-
-### Expected Result
-
-A Popup Menu should appear near the button with the available menu actions.
-
-### Actual Result
-
-The Popup Menu is displayed successfully.
-
-### Status
-
-✅ **Passed**
-
-### Screenshot
-
-Add the screenshot showing the Popup Menu here.
-
----
-
-## 🧪 Test Case 5 – WebView Integration
-
-### Objective
-
-To verify that the application displays HTML content and loads a website using WebView.
-
-### Input
-
-Select the Open Website option from the Options Menu.
-
-### Expected Result
-
-The selected website should load inside the application's WebView without requiring a separate browser.
-
-### Actual Result
-
-The website is displayed inside the WebView when an internet connection is available.
-
-### Status
-
-✅ **Passed**
-
-### Screenshot
-
-Add the screenshot showing the website loaded inside WebView here.
+Insert a screenshot showing the Context Menu or the website loaded inside WebView here.
 
 ---
