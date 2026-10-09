@@ -4,12 +4,11 @@
 
 ---
 
-## 👨‍💻 Student Details
+## 👨‍💻 Author
 
-**Name:** Manikandan P
-**USN:** 25MCAR0186
+**Name:** Manikandan P  
+**USN:** 25MCAR0186  
 **Subject:** Mobile Application Development Lab
-**Package Name:** `com.project.exp8`
 
 ---
 
